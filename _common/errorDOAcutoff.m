@@ -7,6 +7,7 @@ minError = minError^2;
 finalError = minError * ones(size(theTrue));
 
 if isempty(theEst)
+    finalError = sqrt(finalError);
     return
 end
 
@@ -16,7 +17,6 @@ matching = logical(hungarian(errorMatrix));
 
 %- YP fix
 finalErrorTmp = errorMatrix(matching);
-% finalError(1:numel(finalErrorTmp)) = finalErrorTmp;
 finalError(1:numel(finalErrorTmp)) = sqrt(finalErrorTmp);
 end
 
