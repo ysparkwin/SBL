@@ -1,3 +1,11 @@
+% C. F. Mecklenbräuker, P. Gerstoft, E. Ollila, and Y. Park.
+% "Robust and Sparse M-Estimation of DOA."
+% Signal Process. 220, 109461 (2024).
+% https://doi.org/10.1016/j.sigpro.2024.109461
+
+%Created by Yongsung Park, SIO UCSD
+%Last updated 2024-08-26
+
 clear; clc;
 close all;
 
