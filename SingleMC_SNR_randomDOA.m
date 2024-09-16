@@ -1,11 +1,22 @@
-% C. F. Mecklenbräuker, P. Gerstoft, E. Ollila, and Y. Park.
-% "Robust and Sparse M-Estimation of DOA."
-% Signal Process. 220, 109461 (2024).
+% Version 4.5: (08/26/2024)
+% written by Yongsung Park
+
+% Yongsung Park & Peter Gerstoft
+% MPL/SIO/UCSD
+% yongsungpark@ucsd.edu / gerstoft@ucsd.edu
+% noiselab.ucsd.edu
+
+% Citation
+% P. Gerstoft, C. F. Mecklenbräuker, A. Xenaki, and S. Nannuru, “Multi-snapshot sparse Bayesian learning for DOA,” IEEE Signal Process. Lett. 23(10) (2016).
+% https://doi.org/10.1109/LSP.2016.2598550
+
+% Robust SBL with other loss functions is available.
+% C. F. Mecklenbräuker, P. Gerstoft, E. Ollila, and Y. Park, “Robust and Sparse M-Estimation of DOA,” Signal Process. 220, 109461 (2024).
 % https://doi.org/10.1016/j.sigpro.2024.109461
+% C. F. Mecklenbräuker, P. Gerstoft, and E. Ollila, “DOA M-estimation using sparse bayesian learning,” in Proc. IEEE ICASSP (2022), pp. 4933–4937.
+% https://doi.org/10.1109/ICASSP43922.2022.9746740
 
-%Created by Yongsung Park, SIO UCSD
-%Last updated 2024-08-26
-
+%%
 clear; clc;
 close all;
 
