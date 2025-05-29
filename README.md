@@ -25,8 +25,9 @@ Version 4.5: (08/26/2024 by Y. Park)
 
 # Contact
 
-[Yongsung Park](https://scholar.google.com/citations?user=kYGe18EAAAAJ&hl=en&oi=ao) & [Peter Gerstoft](https://scholar.google.com/citations?user=oLMfDnYAAAAJ&hl=en)  
+[Yongsung Park](https://scholar.google.com/citations?user=jcMeNjMAAAAJ&hl=en&oi=ao) & [Peter Gerstoft](https://scholar.google.com/citations?user=oLMfDnYAAAAJ&hl=en)  
+AOPE/WHOI  
 MPL/SIO/UCSD  
-yongsungpark@ucsd.edu  
+yongsung.park@whoi.edu  
 gerstoft@ucsd.edu  
 ## [Noiselab](http://noiselab.ucsd.edu/)
